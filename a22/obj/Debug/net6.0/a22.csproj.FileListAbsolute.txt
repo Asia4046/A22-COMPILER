@@ -1,0 +1,15 @@
+/home/nilesh/A22_LANG/a22/bin/Debug/net6.0/a22
+/home/nilesh/A22_LANG/a22/bin/Debug/net6.0/a22.deps.json
+/home/nilesh/A22_LANG/a22/bin/Debug/net6.0/a22.runtimeconfig.json
+/home/nilesh/A22_LANG/a22/bin/Debug/net6.0/a22.dll
+/home/nilesh/A22_LANG/a22/bin/Debug/net6.0/ref/a22.dll
+/home/nilesh/A22_LANG/a22/bin/Debug/net6.0/a22.pdb
+/home/nilesh/A22_LANG/a22/obj/Debug/net6.0/a22.csproj.AssemblyReference.cache
+/home/nilesh/A22_LANG/a22/obj/Debug/net6.0/a22.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilesh/A22_LANG/a22/obj/Debug/net6.0/a22.AssemblyInfoInputs.cache
+/home/nilesh/A22_LANG/a22/obj/Debug/net6.0/a22.AssemblyInfo.cs
+/home/nilesh/A22_LANG/a22/obj/Debug/net6.0/a22.csproj.CoreCompileInputs.cache
+/home/nilesh/A22_LANG/a22/obj/Debug/net6.0/a22.dll
+/home/nilesh/A22_LANG/a22/obj/Debug/net6.0/ref/a22.dll
+/home/nilesh/A22_LANG/a22/obj/Debug/net6.0/a22.pdb
+/home/nilesh/A22_LANG/a22/obj/Debug/net6.0/a22.genruntimeconfig.cache
