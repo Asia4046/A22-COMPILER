@@ -1,4 +1,4 @@
-![Logo](./index.png)
+![Logo](https://github.com/KTeam-Devs/A22-COMPILER/blob/main/index.png)
 
 # A22 Compiler
 
